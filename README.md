@@ -2,7 +2,7 @@
  The following is an observation of crime trends across New South Wales, Victoria and Australia-wide. I previously worked as a research officer and found it fascinating to see crime trends over periods of time. This report is also in response to growing fears about 'rising crime' in Australia. 
 
  ## NSW Crime Trends 
- NSW is the biggest state in Australia by population as of 2024. Due to this crime tends to recieve major media coverage. I did not observe crime trends by Local Government Areas (LGA). But looked more wholistically. This is due to the fact that regional NSW has a significant portion of crime due to lower socioeconomic outcomes. 
+ NSW is the biggest state in Australia by population as of 2024. Due to this crime tends to recieve major media coverage. I did not observe crime trends by Local Government Areas (LGA). But looked more wholistically. This is due to the fact that regional NSW has a significant portion of crime due to lower socioeconomic outcomes. Data was sourced from Bureau of Crime Statistics and Research (BOCSAR)
 
 ### Violent Crime
 #### Code
@@ -147,7 +147,7 @@ plt.show()
 
 # Victoria Crime Trends 
 
-Recent media coverage has focused on the 'alarming' rate of crime in Victoria. These reports often lead to a loss in social cohesion and political backlash. I wanted to observe how much truth there is to these claims and the overall trends in crime in Victoria. 
+Recent media coverage has focused on the 'alarming' rate of crime in Victoria. These reports often lead to a loss in social cohesion and political backlash. I wanted to observe how much truth there is to these claims and the overall trends in crime in Victoria. Data was sourced from the Crime Statistics Agency.
 
 ### Violent Crime
 ####  Code
@@ -386,7 +386,7 @@ plt.show()
 
 # Australia-Wide 
 
-The Australian Bureau of Statistics produces reports on crime statistics. I utilised these statistics to observe Australia-wide crime trends. 
+The Australian Bureau of Statistics (ABS) produces reports on crime statistics. I utilised these statistics to observe Australia-wide crime trends. 
 
 #### Code 
 ``` python 
