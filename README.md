@@ -1,8 +1,8 @@
 # Introduction
- The following is an observation of crime trends across New South Wales, Victoria and Australia-wide. I previously worked as a research officer and found it fascinating to see crime trends over periods of time. This report is also in response to growing fears about 'rising crime' in Australia. 
+The following is an observation of crime trends across New South Wales, Victoria and Australia-wide. I previously worked as a research officer and found it fascinating to see crime trends over periods of time. This report is also in response to growing fears about 'rising crime' in Australia. 
 
- ## NSW Crime Trends 
- NSW is the biggest state in Australia by population as of 2024. Due to this crime tends to recieve major media coverage. I did not observe crime trends by Local Government Areas (LGA). But looked more wholistically. This is due to the fact that regional NSW has a significant portion of crime due to lower socioeconomic outcomes. Data was sourced from Bureau of Crime Statistics and Research (BOCSAR)
+## NSW Crime Trends 
+NSW crime tends to receive intense media coverage, inflaming political and social discourse. I did not observe crime trends by Local Government Areas (LGA), but looked more wholistically. This is partly because regional NSW has a significant proportion of crime due to lower socioeconomic outcomes. Data was sourced from Bureau of Crime Statistics and Research (BOCSAR)
 
 ### Violent Crime
 #### Code
@@ -136,13 +136,13 @@ plt.show()
 
 ####  Visualisation
 ![NSW Property Trends](property_nsw.png)
-- Property crime in NSW has generally trended down over the past 10 years. Proactive policing and increased operations such as sweetenham and mongoose have been largely successful in reducing reoffending, which deflates the overall statistics. 
+- Property crime in NSW has generally trended downwards over the past 10 years. Proactive policing and increased operations such as Sweetenham and Mongoose have been successful in reducing reoffending, which deflates the overall statistics. 
 
-- Despite the overall downward trends in property crime, steal from retail and motor vehicle theft has increased over the past 10 years. 
+- Despite the overall downward trends in property crime, steal from retail and motor vehicle theft have increased over the past 10 years. 
 
-- Steal from retail rose sharply after the COVID-19 Pandemic. This is likely the result of increased cost-of-living in NSW which has affected individual's capacities to afford everyday items. The cost-of-living crisis combined with increased surveillance through cameras has likely led to a dramatic increase in steal from retail offences. 
+- Steal from retail rose sharply after the COVID-19 pandemic. Increased cost-of-living in NSW has dramatically increased the cost of everyday items such as food and utilities. The cost-of-living crisis combined with increased surveillance through cameras has likely led to a dramatic increase in steal from retail offences. 
 
-- Motor vehicle theft has been the subject of wide media coverage. It is likely motor vehicle theft is driven by either joy-riding or opporunistic crime. It is enabled by the continual posting of vehicle thefts in online spaces by youth. A particular emerging trend is the use of youths to steal vehicles on behalf of organised crime figures, which not only affects policing but can also entrench youth in the criminal justice system. 
+- Motor vehicle theft has been the subject of wide media coverage in NSW. It is likely motor vehicle theft is driven by either joy-riding or opporunistic crime. It is enabled by the continual posting of vehicle thefts in online spaces by youth. A particular emerging trend is the use of youths to steal vehicles on behalf of organised crime figures, which not only affects policing but can also entrench youth in the criminal justice system. 
 
 
 # Victoria Crime Trends 
@@ -304,7 +304,7 @@ plt.show()
 
 - It is likely this dramatic increase is due to higher cost-of-living which is straining incomes of households. 
 
-- Some of these statistics are likely a reflection of youth stealing vehicles. This subsection of crime is likely due to the emergence of joyriding as a method to gain social media fame and glory. 
+- Some of these statistics may be a reflection of youth stealing vehicles. This subsection of crime is likely due to the emergence of joyriding as a method to gain social media fame and glory. 
 
 ### Youth Crime 
 Youth crime in Victoria has garnered significant media backlash. Thus I wanted to explore what the overall trend was of youth offending. 
@@ -375,13 +375,13 @@ plt.show()
 ![VIC Youth Crime Trends](vic_youth.png)
 - Youth crime has increased, however, I did not group the ages together and thus this may skew the data. 
 
-- Alarmingly, 10-14 year olds are increasingly becoming offenders. This has large ramifications for the minimum age of criminal responsiblity in Victoria, which is currently 12 but has been discussed to increase to 14. 
+- Alarmingly, 10-14 year olds are increasingly being identified as offenders. This has large ramifications for the minimum age of criminal responsiblity in Victoria, which is currently 12 but has been discussed to increase to 14. Continuation of this trend will likely call into question current Police practices and the validity of the minimum age of criminal responsiblity. 
 
 - 15-17 year olds dominate youth crime trends, highlighted by the overall increase of offenders in this age bracket over the past 10 years. 
 
 - It is likely that 15-17 year olds are undergoing significant biological changes that may increase aggression and novelty-seeking behaviours in some youths. This relationship is mediated by several socioeconomic factors such as poverty and previous victimisation.
 
-- Early intervention is key to reduce the likelihood 10-14 year old offenders continuing to offend into their adolescence. 
+- Early intervention is key to reduce the likelihood 10-14 year old offenders continuing to offend into their adolescence. This can be achieved through cohesive programs that target the root causes of youth crime such as socioeconomic deficits and a lack of education (among many others).
 
 
 # Australia-Wide 
@@ -456,7 +456,7 @@ plt.show()
 
 - Overall crime in Australia has reduced in several categories of interest. This is a positive reflection of ongoing Government efforts in reducing crime through policing and the delivery of greater socioeconomic outcomes for communities. 
 
-- Assault has increased, however, this is likely due to increased reporting to police and other judicial bodies. 
+- Assault has increased, however, this is likely due to increased reporting to police and other judicial bodies. Orders such as Apprenhended Violence Orders (AVOs) are primarily used to reduce the likelihood of repeat offending. Despite this, there is little empirical evidence to suggest it is effective. 
 
 
 # Conclusion
